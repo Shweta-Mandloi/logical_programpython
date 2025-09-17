@@ -7,7 +7,7 @@ num = [3,4,2,5]
 num.clear()
 print(num)
 
-shweta = ['arpit', 'balram', 'ram']
+shweta = ['arpit', 'vikas', 'kashish']
 shweta.copy()
 print(shweta)
 
